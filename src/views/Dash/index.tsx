@@ -48,7 +48,7 @@ const Dash: React.FC = () => {
       <div className="wrapper">
       <h1>Dashboard</h1>
         <div>
-          { data ?.map( el => (
+          { data?.map( el => (
               <div key={el.id} className="card"> 
                 <img src="https://wallpapercave.com/wp/wp2514508.jpg" alt="img" width="100px" height="100px" />
                 <div className="content-information">

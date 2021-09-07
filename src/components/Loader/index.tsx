@@ -2,7 +2,6 @@ import React from 'react';
 import Lottie from 'react-lottie';
 import { Container } from './style';
 import animationData from '../../Animation/71379-loader-with-code-000048.json'
-import { tupleExpression } from '@babel/types';
 
 const Loader: React.FC = () => {
   const defaultOptions = {
