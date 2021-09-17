@@ -6,8 +6,8 @@ Projeto proposto em paralelo com as aulas do Professor Douglas Morais pelo Bootc
 
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app)
 
-- Para rodar este projeto, apos fazer `git clone` https://- github.com/Carloss-Jr/Reactive_Native.git em uma pasta com git ja iniciado (`git init`)
-- Utilize `npm i` para baixar todas as dependências
+- Para rodar este projeto, no terminal use o seguinte comando `git clone` https://- github.com/Carloss-Jr/Reactive_Native.git em uma pasta vazia
+- Apos no VsCode Utilize `npm i` para baixar todas as dependências e então rode os scripts listados abaixo.
 
 ## Scripts Disponíveis
 
