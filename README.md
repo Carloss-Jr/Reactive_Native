@@ -1,5 +1,9 @@
-# Primeiro Projeto em RN
+# Primeiro passos com Creatr React App
+ 
+Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app)
 
-- Este projeto está sendo desenvolvido em paralelo com as video aulas do Professor Douglas Morais dentro do bootcamp da Gama Academy.
+## Scripts Disponíveis
 
-- Projeto utilizando RN e TS.
+No diretório do projeto, você pode executar :
+
+### `npm start`
